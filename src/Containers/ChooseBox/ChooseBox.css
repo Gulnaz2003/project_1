@@ -1,0 +1,70 @@
+.box_options {
+  display: flex;
+  text-overflow: bold;
+  justify-content: center;
+  background: #f8f8f8;
+
+  margin: 100px 150px;
+  border-radius: 20px;
+  justify-content: center;
+  width: 1000px;
+  height: 820px;
+  box-shadow: 0px 5px 20px 2px #00000040;
+  position: relative;
+  box-shadow: 0px 15px 50px 0px #ffffff40 inset;
+}
+
+.box_title {
+  display: block;
+  text-align: center;
+  padding: 30px 10px;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: #10263c;
+}
+
+.box_input {
+  display: flex;
+  border-radius: 10px;
+}
+
+.box_input Button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  box-shadow: 0px 4px 8px 0px #9db3ce;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.box_number {
+  display: flex;
+}
+
+.box_number Button {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 8px 0px #9db3ce;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.box_menu {
+  display: flex;
+  padding: 50px 0px 50px 10px;
+}
+
+.box_menu a {
+  text-decoration: none;
+  color: #545353;
+}
+
+.box_menu img {
+  width: 10px;
+  height: 20px;
+  padding: 3px 20px;
+}

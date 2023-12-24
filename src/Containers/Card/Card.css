@@ -1,0 +1,140 @@
+.card_options {
+  display: flex;
+  justify-content: center;
+  margin: 100px 150px;
+  border-radius: 20px;
+  justify-content: center;
+  width: 1000px;
+  height: 820px;
+  box-shadow: 0px 5px 20px 2px #00000040;
+
+  box-shadow: 0px 15px 50px 0px #ffffff40 inset;
+  position: relative;
+  background: #f8f8f8;
+}
+
+.card_title {
+  text-align: center;
+  padding: 30px 10px;
+  font-size: 24px;
+  border-color: #545353;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  background: #f8f8f8;
+}
+
+.card_title h2 {
+  color: #10263c;
+}
+
+.card {
+  width: 611px;
+  height: 383px;
+  padding: 20px 30px 0;
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+.card_input {
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.button {
+  margin: 70px 180px 0;
+  padding: 10px 60px;
+  width: 250px;
+  border-radius: 15px;
+  color: white;
+  background: #259a71;
+}
+
+.card_input Button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 15px;
+  background: #ffffff;
+  box-shadow: 0px 4px 8px 0px #9db3ce;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+}
+
+.card_number {
+  display: flex;
+  justify-content: center;
+}
+
+.card_number Button {
+  display: flex;
+  margin: 10px 15px;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 8px 0px #9db3ce;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+.card_menu {
+  display: flex;
+  position: absolute;
+  bottom: 50px;
+  z-index: 1;
+  padding-right: 850px;
+}
+
+.card_menu a {
+  text-decoration: none;
+  color: #545353;
+  font-size: 18px;
+  padding: 3px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+
+.card_menu img {
+  width: 10px;
+  height: 20px;
+  padding: 3px 20px;
+  font-size: 16px;
+}
+.card_number3 {
+  display: flex;
+  justify-content: center;
+}
+
+.card_number3 Button {
+  display: flex;
+  box-shadow: 0px 4px 8px 0px #9db3ce;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  border-radius: 10px;
+  margin: 10px 15px;
+  outline: none;
+  border: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttoncard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button2card {
+  padding: 10px;
+  color: white;
+  background: #d44e2a;
+  width: 250px;
+  height: 100px;
+  margin: 30px 180px;
+  border-radius: 15px;
+}

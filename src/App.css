@@ -1,0 +1,13 @@
+:root {
+  background: rgb(51, 221, 193);
+  background: linear-gradient(
+    311deg,
+    rgba(51, 221, 193, 1) 39%,
+    rgb(3, 1, 30) 100%
+  );
+
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
